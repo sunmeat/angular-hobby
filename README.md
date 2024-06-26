@@ -1,6 +1,6 @@
 # Hobby
 
-![результат](https://test.jpg)
+![результат]([https://test.jpg](https://github.com/sunmeat/angular-hobby/blob/main/results.png))
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
